@@ -137,9 +137,9 @@ CELERY_BROKER_URL = 'amqp://localhost'
 
 
 # Braintree
-BRAINTREE_MERCHANT_ID = 'sz39hzccv6ghyxfp'  # Merchant ID
-BRAINTREE_PUBLIC_KEY = 'vxjnxhcm5575hzfd'   # Public Key
-BRAINTREE_PRIVATE_KEY = '972ca653fca80a180f8dcd6f456c0db3'  # Private key
+BRAINTREE_MERCHANT_ID = ''  # Merchant ID
+BRAINTREE_PUBLIC_KEY = ''   # Public Key
+BRAINTREE_PRIVATE_KEY = ''  # Private key
 
 
 BRAINTREE_CONF = braintree.Configuration(
